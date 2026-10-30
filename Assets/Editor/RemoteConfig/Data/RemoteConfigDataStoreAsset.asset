@@ -11,10 +11,17 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
   m_Name: RemoteConfigDataStoreAsset
-  m_EditorClassIdentifier: Unity.RemoteConfig.Editor::Unity.RemoteConfig.Editor.RemoteConfigDataStore
-  _rsKeyList: '[]'
-  _rsLastCachedKeyList: '[]'
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"b739d540-700c-4323-ad0e-f37df631f878\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"isHalloween\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"b739d540-700c-4323-ad0e-f37df631f878\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"isHalloween\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  }\r\n]"
   _environments: "[\r\n  {\r\n    \"projectId\": \"dc2599ff-7510-4bf8-800d-8a9a02ead394\",\r\n   
     \"name\": \"production\",\r\n    \"id\": \"3eba9c07-c3ee-4388-b8e1-73918410659c\",\r\n   
     \"isDefault\": true,\r\n    \"createdAt\": \"2026-10-30T05:49:47Z\",\r\n    \"updatedAt\":
-    \"2026-10-30T05:49:47Z\"\r\n  }\r\n]"
+    \"2026-10-30T05:49:47Z\"\r\n  },\r\n  {\r\n    \"projectId\": \"dc2599ff-7510-4bf8-800d-8a9a02ead394\",\r\n   
+    \"name\": \"development\",\r\n    \"id\": \"b8c44340-f0a9-4036-a5ad-d8f9e64c232f\",\r\n   
+    \"isDefault\": false,\r\n    \"createdAt\": \"2026-10-30T06:37:29Z\",\r\n   
+    \"updatedAt\": \"2026-10-30T06:37:29Z\"\r\n  }\r\n]"
